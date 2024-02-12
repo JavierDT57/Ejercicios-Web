@@ -103,7 +103,7 @@ h3{
     padding: 1rem;
     display: flex;
     justify-content:center;
-    gap: 2rem; /* Separacion de los elementos de la nav */
+    gap: 2rem; /* Separacion de los elementos de la nav--nueva forma y optima*/
     }
 
 .navegacion__enlace{
